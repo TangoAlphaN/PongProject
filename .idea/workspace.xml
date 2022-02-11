@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d8195cb-4b9f-4d7d-bc7c-98f6f1232b98" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/Pong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/GameFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/GamePanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Paddle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/PongGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Score.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Pong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Ball.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,6 +17,34 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1644597361" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1644597360" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="24yGXdHAoTG8yY3VuRIwMB2N2Bh" />
   <component name="ProjectLevelVcsManager">
@@ -39,7 +73,7 @@
       <updated>1644595453877</updated>
       <workItem from="1644595455063" duration="255000" />
       <workItem from="1644595733832" duration="596000" />
-      <workItem from="1644596577145" duration="638000" />
+      <workItem from="1644596577145" duration="1848000" />
     </task>
     <servers />
   </component>
