@@ -21,21 +21,21 @@ public class Paddle extends Rectangle {
         switch (id){
             case 1 :
                 if (e.getKeyCode() == KeyEvent.VK_Z){
-                    setYDirection(0);
+                    setYDirection(-speed);
                     move();
                 }
                 if (e.getKeyCode() == KeyEvent.VK_S){
-                    setYDirection(0);
+                    setYDirection(speed);
                     move();
                 }
                 break;
             case 2 :
                 if (e.getKeyCode() == KeyEvent.VK_UP){
-                    setYDirection(0);
+                    setYDirection(-speed);
                     move();
                 }
                 if (e.getKeyCode() == KeyEvent.VK_DOWN){
-                    setYDirection(0);
+                    setYDirection(speed);
                     move();
                 }
                 break;
@@ -48,21 +48,21 @@ public class Paddle extends Rectangle {
         switch (id){
             case 1 :
                 if (e.getKeyCode() == KeyEvent.VK_Z){
-                    setYDirection(-speed);
+                    setYDirection(0);
                     move();
                 }
                 if (e.getKeyCode() == KeyEvent.VK_S){
-                    setYDirection(speed);
+                    setYDirection(0);
                     move();
                 }
                 break;
             case 2 :
                 if (e.getKeyCode() == KeyEvent.VK_UP){
-                    setYDirection(-speed);
+                    setYDirection(0);
                     move();
                 }
                 if (e.getKeyCode() == KeyEvent.VK_DOWN){
-                    setYDirection(speed);
+                    setYDirection(0);
                     move();
                 }
                 break;
