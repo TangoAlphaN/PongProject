@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d8195cb-4b9f-4d7d-bc7c-98f6f1232b98" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/GameFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/GamePanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Paddle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/PongGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Score.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Pong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Ball.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Ball.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Ball.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/GameFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/GameFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/GamePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/GamePanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Paddle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Paddle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Score.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Score.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,8 +58,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -73,7 +72,14 @@
       <updated>1644595453877</updated>
       <workItem from="1644595455063" duration="255000" />
       <workItem from="1644595733832" duration="596000" />
-      <workItem from="1644596577145" duration="1848000" />
+      <workItem from="1644596577145" duration="2658000" />
+      <workItem from="1644599554155" duration="210000" />
+      <workItem from="1644599782656" duration="221000" />
+      <workItem from="1644600021831" duration="291000" />
+      <workItem from="1644600332469" duration="32000" />
+      <workItem from="1644600382553" duration="442000" />
+      <workItem from="1644600938595" duration="113000" />
+      <workItem from="1644601079909" duration="20000" />
     </task>
     <servers />
   </component>

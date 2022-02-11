@@ -6,6 +6,8 @@ import javax.swing.*;
 public class PongGame {
 
     public static void main(String[] args){
-        //TODO completed
+
+        GameFrame frame = new GameFrame();
+
     }
 }
