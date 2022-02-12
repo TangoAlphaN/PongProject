@@ -67,6 +67,7 @@ public class GamePanel extends JPanel implements Runnable {
         paddle2.draw(g);
         ball.draw(g);
         Score.draw(g);
+        Toolkit.getDefaultToolkit().sync();
 
     }
 
@@ -182,5 +183,4 @@ public class GamePanel extends JPanel implements Runnable {
         }
 
     }
-
 }
